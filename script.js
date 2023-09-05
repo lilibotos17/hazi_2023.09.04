@@ -20,3 +20,7 @@ document.querySelector('h1').onclick = function () {
 document.querySelector('h2').onclick = function () {
   alert('Ma már holnap van!')
 }
+
+document.querySelector('h3').onclick = function () {
+  alert('Készen van a házi :D')
+}
